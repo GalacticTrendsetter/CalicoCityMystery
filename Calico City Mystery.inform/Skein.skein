@@ -1,0 +1,4006 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1002">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-1002">
+        <command xml:space="preserve">Calico City Mystery</command>
+        <result xml:space="preserve">
+
+
+Calico City Mystery
+An Interactive Fiction by TurtleCorn Productions
+Release 1 / Serial number 220628 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Bunnies' Bedroom
+The Bunnies' Bedroom has a bunkbed against one wall for you and Liam Bunny, and a bed for each parent. Next to the bunkbed is a desk, and in front of the beds is a wardrobe.
+
+To your south is the living room.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1396"></child>
+            <child nodeId="node-1387"></child>
+            <child nodeId="node-1386"></child>
+            <child nodeId="node-1377"></child>
+            <child nodeId="node-1367"></child>
+            <child nodeId="node-1364"></child>
+            <child nodeId="node-1356"></child>
+            <child nodeId="node-1058"></child>
+            <child nodeId="node-1012"></child>
+            <child nodeId="node-1009"></child>
+            <child nodeId="node-1003"></child>
+        </children>
+    </item>
+    <item nodeId="node-1003">
+        <command xml:space="preserve">x wallpaper</command>
+        <result xml:space="preserve">The wallpaper is neatly decorated with flowers.
+
+As you examine the wallpaper, you notice that there is a seam around part of the wall in the shape of a door. You tap on it, and the door swings open!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1004"></child>
+        </children>
+    </item>
+    <item nodeId="node-1004">
+        <command xml:space="preserve">x wallpaper</command>
+        <result xml:space="preserve">The wallpaper is neatly decorated with flowers. A panel in the wall, just big enough to fit through, has been opened to reveal a hidden door to the east.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1005"></child>
+        </children>
+    </item>
+    <item nodeId="node-1005">
+        <command xml:space="preserve">close door</command>
+        <result xml:space="preserve">You close the hidden door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1006"></child>
+        </children>
+    </item>
+    <item nodeId="node-1006">
+        <command xml:space="preserve">x wallpaper</command>
+        <result xml:space="preserve">The wallpaper is neatly decorated with flowers. Part of the wall seems to have a seam around it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1007"></child>
+        </children>
+    </item>
+    <item nodeId="node-1007">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">You open the hidden door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1008"></child>
+        </children>
+    </item>
+    <item nodeId="node-1008">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Liam Bunny's Stash
+It seems like a place that Liam Bunny has been using for a while to store candy and snacks.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1009">
+        <command xml:space="preserve">x liam's bed</command>
+        <result xml:space="preserve">Liam's bed is blue, and you see a stuffed turtle there.
+
+As you examine Liam's Bed, you notice that there is a seam around part of the wall in the shape of a door. You tap on it, and the door swings open!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1010"></child>
+        </children>
+    </item>
+    <item nodeId="node-1010">
+        <command xml:space="preserve">x liam's bed</command>
+        <result xml:space="preserve">Liam's bed is blue, and you see a stuffed turtle there.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1011"></child>
+        </children>
+    </item>
+    <item nodeId="node-1011">
+        <command xml:space="preserve">x wall</command>
+        <result xml:space="preserve">The wallpaper is neatly decorated with flowers. A panel in the wall, just big enough to fit through, has been opened to reveal a hidden door to the east.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1012">
+        <command xml:space="preserve">spin handles</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1013"></child>
+        </children>
+    </item>
+    <item nodeId="node-1013">
+        <command xml:space="preserve">spin handle</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1014"></child>
+        </children>
+    </item>
+    <item nodeId="node-1014">
+        <command xml:space="preserve">turn handle</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1015"></child>
+        </children>
+    </item>
+    <item nodeId="node-1015">
+        <command xml:space="preserve">look at foosball table</command>
+        <result xml:space="preserve">On the foosball game is a small white ball (still).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1016"></child>
+        </children>
+    </item>
+    <item nodeId="node-1016">
+        <command xml:space="preserve">look at ball</command>
+        <result xml:space="preserve">Currently still.
+
+Joey fails to hit the ball in your direction. It remains still.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1017"></child>
+        </children>
+    </item>
+    <item nodeId="node-1017">
+        <command xml:space="preserve">look at handles</command>
+        <result xml:space="preserve">Okay, a couple of the tiny men have had their feet broken off, and the table surface itself is a bit warped, and the ball resembles a quail egg in respect of shape and color. This makes for a game of unusual randomness, but skill is overrated.
+
+Joey fails to hit the ball in your direction. It remains still.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1018"></child>
+        </children>
+    </item>
+    <item nodeId="node-1018">
+        <command xml:space="preserve">hit ball</command>
+        <result xml:space="preserve">Violence isn't the answer to this one.
+
+Joey fails to hit the ball in your direction. It remains still.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1019"></child>
+        </children>
+    </item>
+    <item nodeId="node-1019">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">You madly rotate the tiny men on sticks! Somehow you fail to bring your monopodal player into contact with the ball.
+
+Joey fails to hit the ball in your direction. It remains still.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1020"></child>
+        </children>
+    </item>
+    <item nodeId="node-1020">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">You madly rotate the tiny men on sticks! Somehow you fail to bring your monopodal player into contact with the ball.
+
+Joey fails to hit the ball in your direction. It remains still.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1021"></child>
+        </children>
+    </item>
+    <item nodeId="node-1021">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">You madly rotate the tiny men on sticks! Hoorah! You hit the ball!
+
+Joey tries to block, but misses! Back it goes in the center, where it is still.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1022"></child>
+        </children>
+    </item>
+    <item nodeId="node-1022">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">You madly rotate the tiny men on sticks! Hoorah! You hit the ball!
+
+Joey connects with your shot. Now the ball is approaching!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1023"></child>
+        </children>
+    </item>
+    <item nodeId="node-1023">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">Thwack! You keep the ball from reaching its goal! Now it is receding.
+
+Joey connects with your shot. Now the ball is still!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1024"></child>
+        </children>
+    </item>
+    <item nodeId="node-1024">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">You madly rotate the tiny men on sticks! Somehow you fail to bring your monopodal player into contact with the ball.
+
+Joey hits the ball solidly down towards your goal. Now it is approaching.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1025"></child>
+        </children>
+    </item>
+    <item nodeId="node-1025">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">Thunk. You keep the ball from reaching its goal! Now it is still.
+
+Joey hits the ball solidly down towards your goal. Now it is approaching.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1026"></child>
+        </children>
+    </item>
+    <item nodeId="node-1026">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">Thunk. You keep the ball from reaching its goal! Now it is still.
+
+Joey hits the ball solidly down towards your goal. Now it is approaching.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1027"></child>
+        </children>
+    </item>
+    <item nodeId="node-1027">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">Thwack! You keep the ball from reaching its goal! Now it is receding.
+
+Joey tries to block, but misses! Back it goes in the center, where it is still.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1028"></child>
+        </children>
+    </item>
+    <item nodeId="node-1028">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">You madly rotate the tiny men on sticks! Hoorah! You hit the ball!
+
+Joey tries to block, but misses! Back it goes in the center, where it is still.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1029"></child>
+        </children>
+    </item>
+    <item nodeId="node-1029">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">You hit the ball off-center and it rolls sluggishly into a little dip in the surface of the foosball table. You and Joey exchange glances. This is never good.
+
+Joey glares angrily at the stuck ball.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1030"></child>
+        </children>
+    </item>
+    <item nodeId="node-1030">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">The ball has somehow gotten to a mystical point on the table where it cannot be reached, no matter what. Close inspection reveals that this point has been marked in chalk with a tiny X. Not that that does any good.
+
+Joey glares angrily at the stuck ball.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1031"></child>
+        </children>
+    </item>
+    <item nodeId="node-1031">
+        <command xml:space="preserve">shake table</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1032"></child>
+        </children>
+    </item>
+    <item nodeId="node-1032">
+        <command xml:space="preserve">shove table</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1033"></child>
+        </children>
+    </item>
+    <item nodeId="node-1033">
+        <command xml:space="preserve">hit table</command>
+        <result xml:space="preserve">You give the table a good shove, and the ball moves ever-so-slightly.
+
+Joey fails to hit the ball in your direction. It remains still.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1034"></child>
+        </children>
+    </item>
+    <item nodeId="node-1034">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">You madly rotate the tiny men on sticks! Hoorah! You hit the ball!
+
+Joey connects with your shot. Now the ball is approaching!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1035"></child>
+        </children>
+    </item>
+    <item nodeId="node-1035">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">Thwack! You keep the ball from reaching its goal! Now it is receding.
+
+Joey connects with your shot. Now the ball is approaching!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1036"></child>
+        </children>
+    </item>
+    <item nodeId="node-1036">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">The ball rolls neatly into your goal, despite your efforts. You put the ball back in the center with a snap. No reason to worry yet; you're still ahead. Joey looks determined, though.
+
+Joey hits the ball solidly down towards your goal. Now it is approaching.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1037"></child>
+        </children>
+    </item>
+    <item nodeId="node-1037">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">Thunk. You keep the ball from reaching its goal! Now it is still.
+
+Joey fails to hit the ball in your direction. It remains still.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1038"></child>
+        </children>
+    </item>
+    <item nodeId="node-1038">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">You madly rotate the tiny men on sticks! Hoorah! You hit the ball!
+
+Joey connects with your shot. Now the ball is still!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1039"></child>
+        </children>
+    </item>
+    <item nodeId="node-1039">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">You madly rotate the tiny men on sticks! Hoorah! You hit the ball!
+
+Joey connects with your shot. Now the ball is approaching!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1040"></child>
+        </children>
+    </item>
+    <item nodeId="node-1040">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">The ball rolls neatly into your goal, despite your efforts. You put the ball back in the center with a snap. No reason to worry yet; you're still ahead. Joey looks determined, though.
+
+Joey fails to hit the ball in your direction. It remains still.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1041"></child>
+        </children>
+    </item>
+    <item nodeId="node-1041">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">You madly rotate the tiny men on sticks! Somehow you fail to bring your monopodal player into contact with the ball.
+
+Joey hits the ball solidly down towards your goal. Now it is approaching.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1042"></child>
+        </children>
+    </item>
+    <item nodeId="node-1042">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">Thwack! You keep the ball from reaching its goal! Now it is receding.
+
+Joey tries to block, but misses! Back it goes in the center, where it is still.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1043"></child>
+        </children>
+    </item>
+    <item nodeId="node-1043">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">You madly rotate the tiny men on sticks! Hoorah! You hit the ball!
+
+Joey tries to block, but misses! Back it goes in the center, where it is still.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1044"></child>
+        </children>
+    </item>
+    <item nodeId="node-1044">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">You madly rotate the tiny men on sticks! Hoorah! You hit the ball!
+
+Joey connects with your shot. Now the ball is still!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1045"></child>
+        </children>
+    </item>
+    <item nodeId="node-1045">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">You madly rotate the tiny men on sticks! Hoorah! You hit the ball!
+
+Joey tries to block, but misses! Back it goes in the center, where it is still.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1046"></child>
+        </children>
+    </item>
+    <item nodeId="node-1046">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">You madly rotate the tiny men on sticks! Hoorah! You hit the ball!
+
+Joey connects with your shot. Now the ball is still!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1047"></child>
+        </children>
+    </item>
+    <item nodeId="node-1047">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">You madly rotate the tiny men on sticks! Hoorah! You hit the ball!
+
+Joey tries to block, but misses! Back it goes in the center, where it is still.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1048"></child>
+        </children>
+    </item>
+    <item nodeId="node-1048">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">You madly rotate the tiny men on sticks! Somehow you fail to bring your monopodal player into contact with the ball.
+
+Joey fails to hit the ball in your direction. It remains still.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1049"></child>
+        </children>
+    </item>
+    <item nodeId="node-1049">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">You madly rotate the tiny men on sticks! Somehow you fail to bring your monopodal player into contact with the ball.
+
+Joey fails to hit the ball in your direction. It remains still.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1050"></child>
+        </children>
+    </item>
+    <item nodeId="node-1050">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">You madly rotate the tiny men on sticks! Hoorah! You hit the ball!
+
+Joey connects with your shot. Now the ball is still!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1051"></child>
+        </children>
+    </item>
+    <item nodeId="node-1051">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">You madly rotate the tiny men on sticks! Somehow you fail to bring your monopodal player into contact with the ball.
+
+Joey fails to hit the ball in your direction. It remains still.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1052"></child>
+        </children>
+    </item>
+    <item nodeId="node-1052">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">You hit the ball off-center and it rolls sluggishly into a little dip in the surface of the foosball table. You and Joey exchange glances. This is never good.
+
+Joey glares angrily at the stuck ball.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1053"></child>
+        </children>
+    </item>
+    <item nodeId="node-1053">
+        <command xml:space="preserve">hit table</command>
+        <result xml:space="preserve">You give the table a good shove, and the ball moves ever-so-slightly.
+
+Joey hits the ball solidly down towards your goal. Now it is approaching.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1054"></child>
+        </children>
+    </item>
+    <item nodeId="node-1054">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">Thunk. You keep the ball from reaching its goal! Now it is still.
+
+Joey fails to hit the ball in your direction. It remains still.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1055"></child>
+        </children>
+    </item>
+    <item nodeId="node-1055">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">You madly rotate the tiny men on sticks! Somehow you fail to bring your monopodal player into contact with the ball.
+
+Joey hits the ball solidly down towards your goal. Now it is approaching.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1056"></child>
+        </children>
+    </item>
+    <item nodeId="node-1056">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">Thwack! You keep the ball from reaching its goal! Now it is receding.
+
+Joey connects with your shot. Now the ball is approaching!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1057"></child>
+        </children>
+    </item>
+    <item nodeId="node-1057">
+        <command xml:space="preserve">turn handles</command>
+        <result xml:space="preserve">The ball rolls neatly into your goal, despite your efforts. You put the ball back in the center with a snap. No reason to worry yet; you're still ahead. Joey looks determined, though.
+
+
+
+    *** Victory is yours! ***
+
+
+In that game you scored 7 out of a possible 0, in 41 turns.
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1058">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Bunnies' Living Room
+The Bunnies' Living Room has a big couch, with two small couches on either side. There is a small coffee table with the TV as well as some toys and books.
+
+To your west is the front door and exit, and there are stairs leading up to the dining room and kitchen. To your north is the bedroom.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1352"></child>
+            <child nodeId="node-1311"></child>
+            <child nodeId="node-1059"></child>
+        </children>
+    </item>
+    <item nodeId="node-1059">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Bunnies' Garden.
+This part of the garden contains the stairs leading up to the entrance, and a tree with lots of birds and flowers. There is also a side gate that leads to the Bunnies' outdoor gear.
+
+To your north, the garden continues, and you can see some vegetables and a pond. To your south is the carousel and the playground.
+
+You can see Bunnies' Car (empty) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1303"></child>
+            <child nodeId="node-1071"></child>
+            <child nodeId="node-1060"></child>
+        </children>
+    </item>
+    <item nodeId="node-1060">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Playground
+placeholder. the playground extends to the south from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1061"></child>
+        </children>
+    </item>
+    <item nodeId="node-1061">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Playground
+placeholder. the playground extends to the north from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1062"></child>
+        </children>
+    </item>
+    <item nodeId="node-1062">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1063"></child>
+        </children>
+    </item>
+    <item nodeId="node-1063">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Playground
+placeholder. the playground extends to the south from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1064"></child>
+        </children>
+    </item>
+    <item nodeId="node-1064">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Bunnies' Garden.
+placeholder. the garden extends to the north from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1065"></child>
+        </children>
+    </item>
+    <item nodeId="node-1065">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Bunnies' Garden.
+placeholder. the garden extends to the north and the south from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1066"></child>
+        </children>
+    </item>
+    <item nodeId="node-1066">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Country Road
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1067"></child>
+        </children>
+    </item>
+    <item nodeId="node-1067">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Christmas Party Area
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1068"></child>
+        </children>
+    </item>
+    <item nodeId="node-1068">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Christmas Theater
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1069"></child>
+        </children>
+    </item>
+    <item nodeId="node-1069">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Christmas Dance Party
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1070"></child>
+        </children>
+    </item>
+    <item nodeId="node-1070">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+FunFun Meadow
+placeholder. the garden extends to nothing from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1071">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Bunnies' Garden.
+You can see Maeve's Bicycle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1289"></child>
+            <child nodeId="node-1286"></child>
+            <child nodeId="node-1285"></child>
+            <child nodeId="node-1275"></child>
+            <child nodeId="node-1072"></child>
+        </children>
+    </item>
+    <item nodeId="node-1072">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Country Road
+You can see Maeve's Bicycle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1265"></child>
+            <child nodeId="node-1253"></child>
+            <child nodeId="node-1081"></child>
+            <child nodeId="node-1080"></child>
+            <child nodeId="node-1073"></child>
+        </children>
+    </item>
+    <item nodeId="node-1073">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1074"></child>
+        </children>
+    </item>
+    <item nodeId="node-1074">
+        <command xml:space="preserve">on</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1075"></child>
+        </children>
+    </item>
+    <item nodeId="node-1075">
+        <command xml:space="preserve">get on</command>
+        <result xml:space="preserve">You mount Maeve's Bicycle.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1076"></child>
+        </children>
+    </item>
+    <item nodeId="node-1076">
+        <command xml:space="preserve">sw</command>
+        <result xml:space="preserve">
+Banks of the Calico River (on Maeve's Bicycle)
+You are on the banks of the Calico River, which runs right through the middle of downtown. The Calico River is one of two rivers in Calico Town, the other being Long River.
+
+The river extends to the west from here. To your west is riv2
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1077"></child>
+        </children>
+    </item>
+    <item nodeId="node-1077">
+        <command xml:space="preserve">offf</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1078"></child>
+        </children>
+    </item>
+    <item nodeId="node-1078">
+        <command xml:space="preserve">off</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1079"></child>
+        </children>
+    </item>
+    <item nodeId="node-1079">
+        <command xml:space="preserve">get off</command>
+        <result xml:space="preserve">You dismount Maeve's Bicycle.
+
+Banks of the Calico River
+You are on the banks of the Calico River, which runs right through the middle of downtown. The Calico River is one of two rivers in Calico Town, the other being Long River.
+
+The river extends to the west from here. To your west is riv2
+
+You can see Maeve's Bicycle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1080">
+        <command xml:space="preserve">sw</command>
+        <result xml:space="preserve">
+Banks of the Calico River
+You are on the banks of the Calico River, which runs right through the middle of downtown. The Calico River is one of two rivers in Calico Town, the other being Long River.
+
+The river extends to the west from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1081">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Christmas Party Area
+
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1082"></child>
+        </children>
+    </item>
+    <item nodeId="node-1082">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Christmas Theater
+
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1083"></child>
+        </children>
+    </item>
+    <item nodeId="node-1083">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Christmas Dance Party
+
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1084"></child>
+        </children>
+    </item>
+    <item nodeId="node-1084">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+FunFun Meadow
+The FunFun meadow is a beautiful sunny green meadow full of brightly colored flowers. The Long River runs down the middle of FunFun Meadow. The Long River is the longer of the two rivers in Calico Town, the other being Calico River.
+
+The meadow extends to the south from here. To your west is the Calico Public Library, and to the east is FunFun Cafe.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1085"></child>
+        </children>
+    </item>
+    <item nodeId="node-1085">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+FunFun Meadow
+The FunFun meadow is a beautiful sunny green meadow full of brightly colored flowers. The Long River runs down the middle of FunFun Meadow. The Long River is the longer of the two rivers in Calico Town, the other being Calico River.
+
+The meadow extends to the north and the south from here. To your west is the Calico Public Library, and to the east is FunFun Cafe.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1232"></child>
+            <child nodeId="node-1087"></child>
+            <child nodeId="node-1086"></child>
+        </children>
+    </item>
+    <item nodeId="node-1086">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+FunFun Meadow
+The FunFun meadow is a beautiful sunny green meadow full of brightly colored flowers. The Long River runs down the middle of FunFun Meadow. The Long River is the longer of the two rivers in Calico Town, the other being Calico River.
+
+The meadow extends to the north and the south from here. To your east is Sundale Calico Grocery Store.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1087">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+FunFun Meadow
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1088"></child>
+        </children>
+    </item>
+    <item nodeId="node-1088">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Christmas Dance Party
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1089"></child>
+        </children>
+    </item>
+    <item nodeId="node-1089">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Christmas Theater
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1090"></child>
+        </children>
+    </item>
+    <item nodeId="node-1090">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Christmas Party Area
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1091"></child>
+        </children>
+    </item>
+    <item nodeId="node-1091">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Country Road
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1092"></child>
+        </children>
+    </item>
+    <item nodeId="node-1092">
+        <command xml:space="preserve">sw</command>
+        <result xml:space="preserve">
+Banks of the Calico River
+You are on the banks of the Calico River, which runs right through the middle of downtown. The Calico River is one of two rivers in Calico Town, the other being Long River. The river extends to the west from here. To your west is riv2
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1093"></child>
+        </children>
+    </item>
+    <item nodeId="node-1093">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Twisty N. Books Airport
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1094"></child>
+        </children>
+    </item>
+    <item nodeId="node-1094">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Calico City Garden
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1095"></child>
+        </children>
+    </item>
+    <item nodeId="node-1095">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Kangaroos' Living Room
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1096"></child>
+        </children>
+    </item>
+    <item nodeId="node-1096">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Kangaroos' Bedroom
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1097"></child>
+        </children>
+    </item>
+    <item nodeId="node-1097">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">
+Kangaroos' Living Room
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1098"></child>
+        </children>
+    </item>
+    <item nodeId="node-1098">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Calico City Garden
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1099"></child>
+        </children>
+    </item>
+    <item nodeId="node-1099">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Calico City Garden
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1100"></child>
+        </children>
+    </item>
+    <item nodeId="node-1100">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Calico Field
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1101"></child>
+        </children>
+    </item>
+    <item nodeId="node-1101">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Calico City Garden
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1102"></child>
+        </children>
+    </item>
+    <item nodeId="node-1102">
+        <command xml:space="preserve">se</command>
+        <result xml:space="preserve">
+Sunriver Bowling Alley
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1103"></child>
+        </children>
+    </item>
+    <item nodeId="node-1103">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Sunriver Bowling Alley
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1104"></child>
+        </children>
+    </item>
+    <item nodeId="node-1104">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Sunriver Bowling Alley
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1105"></child>
+        </children>
+    </item>
+    <item nodeId="node-1105">
+        <command xml:space="preserve">m</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1106"></child>
+        </children>
+    </item>
+    <item nodeId="node-1106">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1107"></child>
+        </children>
+    </item>
+    <item nodeId="node-1107">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1108"></child>
+        </children>
+    </item>
+    <item nodeId="node-1108">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1109"></child>
+        </children>
+    </item>
+    <item nodeId="node-1109">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1110"></child>
+        </children>
+    </item>
+    <item nodeId="node-1110">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1111"></child>
+        </children>
+    </item>
+    <item nodeId="node-1111">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1112"></child>
+        </children>
+    </item>
+    <item nodeId="node-1112">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1113"></child>
+        </children>
+    </item>
+    <item nodeId="node-1113">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1114"></child>
+        </children>
+    </item>
+    <item nodeId="node-1114">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1115"></child>
+        </children>
+    </item>
+    <item nodeId="node-1115">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1116"></child>
+        </children>
+    </item>
+    <item nodeId="node-1116">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1117"></child>
+        </children>
+    </item>
+    <item nodeId="node-1117">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1118"></child>
+        </children>
+    </item>
+    <item nodeId="node-1118">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1119"></child>
+        </children>
+    </item>
+    <item nodeId="node-1119">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1120"></child>
+        </children>
+    </item>
+    <item nodeId="node-1120">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1121"></child>
+        </children>
+    </item>
+    <item nodeId="node-1121">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1122"></child>
+        </children>
+    </item>
+    <item nodeId="node-1122">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1123"></child>
+        </children>
+    </item>
+    <item nodeId="node-1123">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1124"></child>
+        </children>
+    </item>
+    <item nodeId="node-1124">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1125"></child>
+        </children>
+    </item>
+    <item nodeId="node-1125">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1126"></child>
+        </children>
+    </item>
+    <item nodeId="node-1126">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1127"></child>
+        </children>
+    </item>
+    <item nodeId="node-1127">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1128"></child>
+        </children>
+    </item>
+    <item nodeId="node-1128">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1129"></child>
+        </children>
+    </item>
+    <item nodeId="node-1129">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1130"></child>
+        </children>
+    </item>
+    <item nodeId="node-1130">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1131"></child>
+        </children>
+    </item>
+    <item nodeId="node-1131">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1132"></child>
+        </children>
+    </item>
+    <item nodeId="node-1132">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1133"></child>
+        </children>
+    </item>
+    <item nodeId="node-1133">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1134"></child>
+        </children>
+    </item>
+    <item nodeId="node-1134">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1135"></child>
+        </children>
+    </item>
+    <item nodeId="node-1135">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1136"></child>
+        </children>
+    </item>
+    <item nodeId="node-1136">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1137"></child>
+        </children>
+    </item>
+    <item nodeId="node-1137">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1138"></child>
+        </children>
+    </item>
+    <item nodeId="node-1138">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1139"></child>
+        </children>
+    </item>
+    <item nodeId="node-1139">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1140"></child>
+        </children>
+    </item>
+    <item nodeId="node-1140">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1141"></child>
+        </children>
+    </item>
+    <item nodeId="node-1141">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1142"></child>
+        </children>
+    </item>
+    <item nodeId="node-1142">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1143"></child>
+        </children>
+    </item>
+    <item nodeId="node-1143">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1144"></child>
+        </children>
+    </item>
+    <item nodeId="node-1144">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1145"></child>
+        </children>
+    </item>
+    <item nodeId="node-1145">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1146"></child>
+        </children>
+    </item>
+    <item nodeId="node-1146">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1147"></child>
+        </children>
+    </item>
+    <item nodeId="node-1147">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1148"></child>
+        </children>
+    </item>
+    <item nodeId="node-1148">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1149"></child>
+        </children>
+    </item>
+    <item nodeId="node-1149">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1150"></child>
+        </children>
+    </item>
+    <item nodeId="node-1150">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1151"></child>
+        </children>
+    </item>
+    <item nodeId="node-1151">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1152"></child>
+        </children>
+    </item>
+    <item nodeId="node-1152">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1153"></child>
+        </children>
+    </item>
+    <item nodeId="node-1153">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1154"></child>
+        </children>
+    </item>
+    <item nodeId="node-1154">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1155"></child>
+        </children>
+    </item>
+    <item nodeId="node-1155">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1156"></child>
+        </children>
+    </item>
+    <item nodeId="node-1156">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1157"></child>
+        </children>
+    </item>
+    <item nodeId="node-1157">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1158"></child>
+        </children>
+    </item>
+    <item nodeId="node-1158">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1159"></child>
+        </children>
+    </item>
+    <item nodeId="node-1159">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1160"></child>
+        </children>
+    </item>
+    <item nodeId="node-1160">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1161"></child>
+        </children>
+    </item>
+    <item nodeId="node-1161">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1162"></child>
+        </children>
+    </item>
+    <item nodeId="node-1162">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1163"></child>
+        </children>
+    </item>
+    <item nodeId="node-1163">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1164"></child>
+        </children>
+    </item>
+    <item nodeId="node-1164">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1165"></child>
+        </children>
+    </item>
+    <item nodeId="node-1165">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1166"></child>
+        </children>
+    </item>
+    <item nodeId="node-1166">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1167"></child>
+        </children>
+    </item>
+    <item nodeId="node-1167">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1168"></child>
+        </children>
+    </item>
+    <item nodeId="node-1168">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1169"></child>
+        </children>
+    </item>
+    <item nodeId="node-1169">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1170"></child>
+        </children>
+    </item>
+    <item nodeId="node-1170">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1171"></child>
+        </children>
+    </item>
+    <item nodeId="node-1171">
+        <command xml:space="preserve">z</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1172"></child>
+        </children>
+    </item>
+    <item nodeId="node-1172">
+        <command xml:space="preserve">do nothing</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1173"></child>
+        </children>
+    </item>
+    <item nodeId="node-1173">
+        <command xml:space="preserve">nothing</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1174"></child>
+        </children>
+    </item>
+    <item nodeId="node-1174">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1175"></child>
+        </children>
+    </item>
+    <item nodeId="node-1175">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1176"></child>
+        </children>
+    </item>
+    <item nodeId="node-1176">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1177"></child>
+        </children>
+    </item>
+    <item nodeId="node-1177">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1178"></child>
+        </children>
+    </item>
+    <item nodeId="node-1178">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1179"></child>
+        </children>
+    </item>
+    <item nodeId="node-1179">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1180"></child>
+        </children>
+    </item>
+    <item nodeId="node-1180">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1181"></child>
+        </children>
+    </item>
+    <item nodeId="node-1181">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1182"></child>
+        </children>
+    </item>
+    <item nodeId="node-1182">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1183"></child>
+        </children>
+    </item>
+    <item nodeId="node-1183">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1184"></child>
+        </children>
+    </item>
+    <item nodeId="node-1184">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1185"></child>
+        </children>
+    </item>
+    <item nodeId="node-1185">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1186"></child>
+        </children>
+    </item>
+    <item nodeId="node-1186">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1187"></child>
+        </children>
+    </item>
+    <item nodeId="node-1187">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1188"></child>
+        </children>
+    </item>
+    <item nodeId="node-1188">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1189"></child>
+        </children>
+    </item>
+    <item nodeId="node-1189">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Sunriver Bowling Alley
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1190"></child>
+        </children>
+    </item>
+    <item nodeId="node-1190">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Calico City Garden
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1191"></child>
+        </children>
+    </item>
+    <item nodeId="node-1191">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Calico Critter Clinic
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1192"></child>
+        </children>
+    </item>
+    <item nodeId="node-1192">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Calico City Garden
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1193"></child>
+        </children>
+    </item>
+    <item nodeId="node-1193">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Twisty N. Books Airport
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1194"></child>
+        </children>
+    </item>
+    <item nodeId="node-1194">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1195"></child>
+        </children>
+    </item>
+    <item nodeId="node-1195">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Twisty N. Books Airport
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1196"></child>
+        </children>
+    </item>
+    <item nodeId="node-1196">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Banks of the Calico River
+You are on the banks of the Calico River, which runs right through the middle of downtown. The Calico River is one of two rivers in Calico Town, the other being Long River. The river extends to the west from here. To your west is riv2
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1197"></child>
+        </children>
+    </item>
+    <item nodeId="node-1197">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Banks of the Calico River
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1198"></child>
+        </children>
+    </item>
+    <item nodeId="node-1198">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Persians' Dining Room
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1199"></child>
+        </children>
+    </item>
+    <item nodeId="node-1199">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Persians' Bathroom
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1200"></child>
+        </children>
+    </item>
+    <item nodeId="node-1200">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Persians' Dining Room
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1201"></child>
+        </children>
+    </item>
+    <item nodeId="node-1201">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Persians' Bedroom
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1202"></child>
+        </children>
+    </item>
+    <item nodeId="node-1202">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Persians' Living Room
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1203"></child>
+        </children>
+    </item>
+    <item nodeId="node-1203">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Sandy Cats' Living Room
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1204"></child>
+        </children>
+    </item>
+    <item nodeId="node-1204">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Sandy Cats' Dining Room
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1205"></child>
+        </children>
+    </item>
+    <item nodeId="node-1205">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Sandy Cats' Bedroom
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1206"></child>
+        </children>
+    </item>
+    <item nodeId="node-1206">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Sandy Cats' Balcony
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1207"></child>
+        </children>
+    </item>
+    <item nodeId="node-1207">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Sandy Cats' Bedroom
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1208"></child>
+        </children>
+    </item>
+    <item nodeId="node-1208">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">
+Sandy Cats' Dining Room
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1209"></child>
+        </children>
+    </item>
+    <item nodeId="node-1209">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Sandy Cats' Living Room
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1210"></child>
+        </children>
+    </item>
+    <item nodeId="node-1210">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">
+Persians' Living Room
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1211"></child>
+        </children>
+    </item>
+    <item nodeId="node-1211">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Persians' Bedroom
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1212"></child>
+        </children>
+    </item>
+    <item nodeId="node-1212">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">
+Persians' Dining Room
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1213"></child>
+        </children>
+    </item>
+    <item nodeId="node-1213">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1214"></child>
+        </children>
+    </item>
+    <item nodeId="node-1214">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Banks of the Calico River
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1215"></child>
+        </children>
+    </item>
+    <item nodeId="node-1215">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1216"></child>
+        </children>
+    </item>
+    <item nodeId="node-1216">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Banks of the Calico River
+You are on the banks of the Calico River, which runs right through the middle of downtown. The Calico River is one of two rivers in Calico Town, the other being Long River. The river extends to the west from here. To your west is riv2
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1217"></child>
+        </children>
+    </item>
+    <item nodeId="node-1217">
+        <command xml:space="preserve">commands</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1218"></child>
+        </children>
+    </item>
+    <item nodeId="node-1218">
+        <command xml:space="preserve">commands</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1219"></child>
+        </children>
+    </item>
+    <item nodeId="node-1219">
+        <command xml:space="preserve">command</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1220"></child>
+        </children>
+    </item>
+    <item nodeId="node-1220">
+        <command xml:space="preserve">help</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1221"></child>
+        </children>
+    </item>
+    <item nodeId="node-1221">
+        <command xml:space="preserve">help</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1222"></child>
+        </children>
+    </item>
+    <item nodeId="node-1222">
+        <command xml:space="preserve">purloin</command>
+        <result xml:space="preserve">(Banks of the Calico River)
+[Can't move Banks of the Calico River: it would contain itself.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1223"></child>
+        </children>
+    </item>
+    <item nodeId="node-1223">
+        <command xml:space="preserve">h</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1224"></child>
+        </children>
+    </item>
+    <item nodeId="node-1224">
+        <command xml:space="preserve">help</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1225"></child>
+        </children>
+    </item>
+    <item nodeId="node-1225">
+        <command xml:space="preserve">commands</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1226"></child>
+        </children>
+    </item>
+    <item nodeId="node-1226">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1227"></child>
+        </children>
+    </item>
+    <item nodeId="node-1227">
+        <command xml:space="preserve">help</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1228"></child>
+        </children>
+    </item>
+    <item nodeId="node-1228">
+        <command xml:space="preserve">actions</command>
+        <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1229"></child>
+        </children>
+    </item>
+    <item nodeId="node-1229">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">[going west]
+
+Banks of the Calico River
+[going west - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1230"></child>
+        </children>
+    </item>
+    <item nodeId="node-1230">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">[looking]
+Banks of the Calico River
+[looking - succeeded]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1231"></child>
+        </children>
+    </item>
+    <item nodeId="node-1231">
+        <command xml:space="preserve">actions off</command>
+        <result xml:space="preserve">Actions listing off.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1232">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+FunFun Cafe
+placeholder. the cafe extends to the north from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1233"></child>
+        </children>
+    </item>
+    <item nodeId="node-1233">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+FunFun Cafe
+placeholder. the cafe extends to the south from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1234"></child>
+        </children>
+    </item>
+    <item nodeId="node-1234">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+FunFun Cafe
+placeholder. the cafe extends to the north from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1235"></child>
+        </children>
+    </item>
+    <item nodeId="node-1235">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+FunFun Cafe
+placeholder. the cafe extends to the south from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1236"></child>
+        </children>
+    </item>
+    <item nodeId="node-1236">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+FunFun Cafe
+placeholder. the cafe extends to the north from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1237"></child>
+        </children>
+    </item>
+    <item nodeId="node-1237">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+FunFun Cafe
+placeholder. the cafe extends to the south from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1238"></child>
+        </children>
+    </item>
+    <item nodeId="node-1238">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+FunFun Cafe
+placeholder. the cafe extends to the north from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1239"></child>
+        </children>
+    </item>
+    <item nodeId="node-1239">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+FunFun Meadow
+placeholder. the garden extends to nothing from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1240"></child>
+        </children>
+    </item>
+    <item nodeId="node-1240">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Calico Library
+placeholder. the library extends to the north from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1241"></child>
+        </children>
+    </item>
+    <item nodeId="node-1241">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Calico Library
+placeholder. the library extends to the south from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1242"></child>
+        </children>
+    </item>
+    <item nodeId="node-1242">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Calico Library
+placeholder. the library extends to the north from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1243"></child>
+        </children>
+    </item>
+    <item nodeId="node-1243">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+FunFun Meadow
+placeholder. the garden extends to nothing from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1244"></child>
+        </children>
+    </item>
+    <item nodeId="node-1244">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+FunFun Meadow
+placeholder. the garden extends to nothing from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1245"></child>
+        </children>
+    </item>
+    <item nodeId="node-1245">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Christmas Dance Party
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1246"></child>
+        </children>
+    </item>
+    <item nodeId="node-1246">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Christmas Theater
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1247"></child>
+        </children>
+    </item>
+    <item nodeId="node-1247">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Christmas Party Area
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1248"></child>
+        </children>
+    </item>
+    <item nodeId="node-1248">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Country Road
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1249"></child>
+        </children>
+    </item>
+    <item nodeId="node-1249">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1250"></child>
+        </children>
+    </item>
+    <item nodeId="node-1250">
+        <command xml:space="preserve">sw</command>
+        <result xml:space="preserve">
+Banks of the Calico River
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1251"></child>
+        </children>
+    </item>
+    <item nodeId="node-1251">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Twisty N. Books Airport
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1252"></child>
+        </children>
+    </item>
+    <item nodeId="node-1252">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Twisty N. Books Airport
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1253">
+        <command xml:space="preserve">get on</command>
+        <result xml:space="preserve">You mount Maeve's Bicycle.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1254"></child>
+        </children>
+    </item>
+    <item nodeId="node-1254">
+        <command xml:space="preserve">get off</command>
+        <result xml:space="preserve">You dismount Maeve's Bicycle.
+
+Country Road
+You can see Maeve's Bicycle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1255"></child>
+        </children>
+    </item>
+    <item nodeId="node-1255">
+        <command xml:space="preserve">sw</command>
+        <result xml:space="preserve">It's a bit too far to walk from here. Try riding a bike or driving.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1256"></child>
+        </children>
+    </item>
+    <item nodeId="node-1256">
+        <command xml:space="preserve">get on bike</command>
+        <result xml:space="preserve">You mount Maeve's Bicycle.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1257"></child>
+        </children>
+    </item>
+    <item nodeId="node-1257">
+        <command xml:space="preserve">sw</command>
+        <result xml:space="preserve">
+Banks of the Calico River (on Maeve's Bicycle)
+You are on the banks of the Calico River, which runs right through the middle of downtown. The Calico River is one of two rivers in Calico Town, the other being Long River.
+
+The river extends to the west from here. To your west is riv2
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1258"></child>
+        </children>
+    </item>
+    <item nodeId="node-1258">
+        <command xml:space="preserve">sw</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1259"></child>
+        </children>
+    </item>
+    <item nodeId="node-1259">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Twisty N. Books Airport (on Maeve's Bicycle)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1260"></child>
+        </children>
+    </item>
+    <item nodeId="node-1260">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Banks of the Calico River (on Maeve's Bicycle)
+You are on the banks of the Calico River, which runs right through the middle of downtown. The Calico River is one of two rivers in Calico Town, the other being Long River.
+
+The river extends to the west from here. To your west is riv2
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1261"></child>
+        </children>
+    </item>
+    <item nodeId="node-1261">
+        <command xml:space="preserve">sw</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1262"></child>
+        </children>
+    </item>
+    <item nodeId="node-1262">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Banks of the Calico River (on Maeve's Bicycle)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1263"></child>
+        </children>
+    </item>
+    <item nodeId="node-1263">
+        <command xml:space="preserve">get off</command>
+        <result xml:space="preserve">You dismount Maeve's Bicycle.
+
+Banks of the Calico River
+You can see Maeve's Bicycle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1264"></child>
+        </children>
+    </item>
+    <item nodeId="node-1264">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">It's a bit too far to walk from here. Try riding a bike or driving.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1265">
+        <command xml:space="preserve">get in</command>
+        <result xml:space="preserve">You mount Maeve's Bicycle.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1266"></child>
+        </children>
+    </item>
+    <item nodeId="node-1266">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Bunnies' Garden. (on Maeve's Bicycle)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1267"></child>
+        </children>
+    </item>
+    <item nodeId="node-1267">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Country Road (on Maeve's Bicycle)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1268"></child>
+        </children>
+    </item>
+    <item nodeId="node-1268">
+        <command xml:space="preserve">sw</command>
+        <result xml:space="preserve">
+Banks of the Calico River (on Maeve's Bicycle)
+You are on the banks of the Calico River, which runs right through the middle of downtown. The Calico River is one of two rivers in Calico Town, the other being Long River.
+
+The river extends to the west from here. To your south is the Hospital and Doctor's Office, and to your east is the Twisty N. Books Airport (TNB).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1269"></child>
+        </children>
+    </item>
+    <item nodeId="node-1269">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Country Road (on Maeve's Bicycle)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1270"></child>
+        </children>
+    </item>
+    <item nodeId="node-1270">
+        <command xml:space="preserve">get off</command>
+        <result xml:space="preserve">You dismount Maeve's Bicycle.
+
+Country Road
+You can see Maeve's Bicycle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1271"></child>
+        </children>
+    </item>
+    <item nodeId="node-1271">
+        <command xml:space="preserve">sw</command>
+        <result xml:space="preserve">It's a bit too far to walk from here. Try riding a bike or driving.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1272"></child>
+        </children>
+    </item>
+    <item nodeId="node-1272">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1273"></child>
+        </children>
+    </item>
+    <item nodeId="node-1273">
+        <command xml:space="preserve">get on</command>
+        <result xml:space="preserve">You mount Maeve's Bicycle.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1274"></child>
+        </children>
+    </item>
+    <item nodeId="node-1274">
+        <command xml:space="preserve">sw</command>
+        <result xml:space="preserve">
+Banks of the Calico River (on Maeve's Bicycle)
+You are on the banks of the Calico River, which runs right through the middle of downtown. The Calico River is one of two rivers in Calico Town, the other being Long River.
+
+The river extends to the west from here. To your south is the Hospital and Doctor's Office, and to your east is the Twisty N. Books Airport (TNB).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1275">
+        <command xml:space="preserve">take pike</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1276"></child>
+        </children>
+    </item>
+    <item nodeId="node-1276">
+        <command xml:space="preserve">take bike</command>
+        <result xml:space="preserve">That's fixed in place.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1277"></child>
+        </children>
+    </item>
+    <item nodeId="node-1277">
+        <command xml:space="preserve">ride bike</command>
+        <result xml:space="preserve">You mount Maeve's Bicycle.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1278"></child>
+        </children>
+    </item>
+    <item nodeId="node-1278">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1279"></child>
+        </children>
+    </item>
+    <item nodeId="node-1279">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Country Road (on Maeve's Bicycle)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1280"></child>
+        </children>
+    </item>
+    <item nodeId="node-1280">
+        <command xml:space="preserve">sw</command>
+        <result xml:space="preserve">
+Banks of the Calico River (on Maeve's Bicycle)
+You are on the banks of the Calico River, which runs right through the middle of downtown. The Calico River is one of two rivers in Calico Town, the other being Long River.
+
+The river extends to the west from here. To your south is the Hospital and Doctor's Office, and to your east is the Twisty N. Books Airport (TNB).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1281"></child>
+        </children>
+    </item>
+    <item nodeId="node-1281">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Country Road (on Maeve's Bicycle)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1282"></child>
+        </children>
+    </item>
+    <item nodeId="node-1282">
+        <command xml:space="preserve">sw</command>
+        <result xml:space="preserve">
+Banks of the Calico River (on Maeve's Bicycle)
+You are on the banks of the Calico River, which runs right through the middle of downtown. The Calico River is one of two rivers in Calico Town, the other being Long River.
+
+The river extends to the west from here. To your south is the Hospital and Doctor's Office, and to your east is the Twisty N. Books Airport (TNB).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1283"></child>
+        </children>
+    </item>
+    <item nodeId="node-1283">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Hospital (on Maeve's Bicycle)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1284"></child>
+        </children>
+    </item>
+    <item nodeId="node-1284">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Banks of the Calico River (on Maeve's Bicycle)
+You are on the banks of the Calico River, which runs right through the middle of downtown. The Calico River is one of two rivers in Calico Town, the other being Long River.
+
+The river extends to the west from here. To your south is the Hospital and Doctor's Office, and to your east is the Twisty N. Books Airport (TNB).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1285">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Bunnies' Garden.
+placeholder. the garden extends to the north from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1286">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Bunnies' Garden.
+placeholder. the garden extends to the south and the east from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1287"></child>
+        </children>
+    </item>
+    <item nodeId="node-1287">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Bunnies' Garden.
+placeholder. the garden extends to the north and the south from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1288"></child>
+        </children>
+    </item>
+    <item nodeId="node-1288">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Country Road
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1289">
+        <command xml:space="preserve">get in</command>
+        <result xml:space="preserve">You mount Maeve's Bicycle.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1290"></child>
+        </children>
+    </item>
+    <item nodeId="node-1290">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Country Road (on Maeve's Bicycle)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1291"></child>
+        </children>
+    </item>
+    <item nodeId="node-1291">
+        <command xml:space="preserve">sw</command>
+        <result xml:space="preserve">
+Banks of the Calico River (on Maeve's Bicycle)
+You are on the banks of the Calico River, which runs right through the middle of downtown. The Calico River is one of two rivers in Calico Town, the other being Long River.
+
+The river extends to the west from here. To your south is the Hospital and Doctor's Office, and to your east is the Twisty N. Books Airport (TNB).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1292"></child>
+        </children>
+    </item>
+    <item nodeId="node-1292">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Country Road (on Maeve's Bicycle)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1293"></child>
+        </children>
+    </item>
+    <item nodeId="node-1293">
+        <command xml:space="preserve">off</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1294"></child>
+        </children>
+    </item>
+    <item nodeId="node-1294">
+        <command xml:space="preserve">get off</command>
+        <result xml:space="preserve">You dismount Maeve's Bicycle.
+
+Country Road
+You can see Maeve's Bicycle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1295"></child>
+        </children>
+    </item>
+    <item nodeId="node-1295">
+        <command xml:space="preserve">get</command>
+        <result xml:space="preserve">(Maeve's Bicycle)
+That's fixed in place.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1296"></child>
+        </children>
+    </item>
+    <item nodeId="node-1296">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1297"></child>
+        </children>
+    </item>
+    <item nodeId="node-1297">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Christmas Party Area
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1298"></child>
+        </children>
+    </item>
+    <item nodeId="node-1298">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Country Road
+You can see Maeve's Bicycle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1299"></child>
+        </children>
+    </item>
+    <item nodeId="node-1299">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1300"></child>
+        </children>
+    </item>
+    <item nodeId="node-1300">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Bunnies' Garden.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1301"></child>
+        </children>
+    </item>
+    <item nodeId="node-1301">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Bunnies' Garden.
+You can see Bunnies' Car (empty) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1302"></child>
+        </children>
+    </item>
+    <item nodeId="node-1302">
+        <command xml:space="preserve">get in</command>
+        <result xml:space="preserve">You're not old enough to drive!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1303">
+        <command xml:space="preserve">get in</command>
+        <result xml:space="preserve">You're not old enough to drive!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1308"></child>
+            <child nodeId="node-1304"></child>
+        </children>
+    </item>
+    <item nodeId="node-1304">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Carousel
+The carousel is a fun place to hang out, both for the carousel and for the snacks.
+
+To the south is the Playstructure, to the west is the Christmas Theater, and to the north is the Bunnies' Garden.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1305"></child>
+        </children>
+    </item>
+    <item nodeId="node-1305">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Playstructure
+The Playstructure is fun for all Calicos of all ages, and it was recently renovated.
+
+To the north is the carousel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1306"></child>
+        </children>
+    </item>
+    <item nodeId="node-1306">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Carousel
+The carousel is a fun place to hang out, both for the carousel and for the snacks.
+
+To the south is the Playstructure, to the west is the Christmas Theater, and to the north is the Bunnies' Garden.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1307"></child>
+        </children>
+    </item>
+    <item nodeId="node-1307">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Christmas Theater
+The Christmas Theater has a big stage with lots of colorful lights. At the theater, Calicos are encouraged to sing along with their favorite carols!
+
+To your west is the exit out to the Carousel. To your north is the party area, and to your south is the dance party.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1308">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Bunnies' Garden. (in Bunnies' Car)
+You can see Maeve's Bicycle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1309"></child>
+        </children>
+    </item>
+    <item nodeId="node-1309">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Country Road (in Bunnies' Car)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1310"></child>
+        </children>
+    </item>
+    <item nodeId="node-1310">
+        <command xml:space="preserve">sw</command>
+        <result xml:space="preserve">
+Banks of the Calico River (in Bunnies' Car)
+You are on the banks of the Calico River, which runs right through the middle of downtown. The Calico River is one of two rivers in Calico Town, the other being Long River.
+
+The river extends to the west from here. To your south is the Hospital and Doctor's Office, and to your east is the Twisty N. Books Airport (TNB).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1311">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Bunnies' Dining Room
+The dining room table and chairs are wooden, and painted red. On the wall is a broom to help clean up the big messes that Liam Bunny makes. Along the wall is the kitchen.
+
+To your south is the bathroom, and there are stairs leading down to the living room.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1312"></child>
+        </children>
+    </item>
+    <item nodeId="node-1312">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Bunnies' Bathroom
+The bathroom has all the normal things in a bathroom. On the wall is a laundry machine and a vacuum cleaner. In the bathtub is a toy bath turtle.
+
+To the north is the kitchen and dining room.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1345"></child>
+            <child nodeId="node-1313"></child>
+        </children>
+    </item>
+    <item nodeId="node-1313">
+        <command xml:space="preserve">take turtle</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1314"></child>
+        </children>
+    </item>
+    <item nodeId="node-1314">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Bunnies' Dining Room
+The dining room table and chairs are wooden, and painted red. On the wall is a broom to help clean up the big messes that Liam Bunny makes. Along the wall is the kitchen.
+
+To your south is the bathroom, and there are stairs leading down to the living room.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1315"></child>
+        </children>
+    </item>
+    <item nodeId="node-1315">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">
+Bunnies' Living Room
+The Bunnies' Living Room has a big couch, with two small couches on either side. There is a small coffee table with the TV as well as some toys and books.
+
+To your west is the front door and exit, and there are stairs leading up to the dining room and kitchen. To your north is the bedroom.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1316"></child>
+        </children>
+    </item>
+    <item nodeId="node-1316">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Bunnies' Garden.
+This part of the garden contains the stairs leading up to the entrance, and a tree with lots of birds and flowers. There is also a side gate that leads to the Bunnies' outdoor gear.
+
+To your north, the garden continues, and you can see some vegetables and a pond. To your south is the carousel and the playground.
+
+You can see Bunnies' Car (empty) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1317"></child>
+        </children>
+    </item>
+    <item nodeId="node-1317">
+        <command xml:space="preserve">drive car</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1318"></child>
+        </children>
+    </item>
+    <item nodeId="node-1318">
+        <command xml:space="preserve">get in car</command>
+        <result xml:space="preserve">You're not old enough to drive!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1319"></child>
+        </children>
+    </item>
+    <item nodeId="node-1319">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Carousel
+The carousel is a fun place to hang out, both for the carousel and for the snacks.
+
+To the south is the Playstructure, to the west is the Christmas Theater, and to the north is the Bunnies' Garden.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1320"></child>
+        </children>
+    </item>
+    <item nodeId="node-1320">
+        <command xml:space="preserve">on</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1321"></child>
+        </children>
+    </item>
+    <item nodeId="node-1321">
+        <command xml:space="preserve">ride carousel</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1322"></child>
+        </children>
+    </item>
+    <item nodeId="node-1322">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">
+Christmas Theater
+The Christmas Theater has a big stage with lots of colorful lights. At the theater, Calicos are encouraged to sing along with their favorite carols!
+
+To your east is the exit out to the Carousel. To your north is the party area, and to your south is the dance party.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1323"></child>
+        </children>
+    </item>
+    <item nodeId="node-1323">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Christmas Party Area
+In the Christmas Party Area, there is a bunch of Christmas trees and fun activities such as cookie decorating and making ornaments. It is currently a few weeks from Christmas, so the Party Area is feeling very lively. The room is full of holiday food.
+
+To your north is the exit and the road, and to your south is the Christmas Theater.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1324"></child>
+        </children>
+    </item>
+    <item nodeId="node-1324">
+        <command xml:space="preserve">eat cookies</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1325"></child>
+        </children>
+    </item>
+    <item nodeId="node-1325">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Country Road
+This road leads downtown to the southwest. To your south is the Christmas Party Building, and to your east is the Bunny Family's garden.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1326"></child>
+        </children>
+    </item>
+    <item nodeId="node-1326">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Bunnies' Garden.
+Here you can see Mommy Bunny's vegetable garden, and there are fruits and flowers growing there as well. There is also a cute pond next to the vegetable garden that is a nice place to take a swim.
+
+To your northeast and south the garden continues. To the south is the front door of the house, and to the northeast is the outdoor patio. To your west is the road.
+
+You can see Maeve's Bicycle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1327"></child>
+        </children>
+    </item>
+    <item nodeId="node-1327">
+        <command xml:space="preserve">ride bike</command>
+        <result xml:space="preserve">You mount Maeve's Bicycle.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1328"></child>
+        </children>
+    </item>
+    <item nodeId="node-1328">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Country Road (on Maeve's Bicycle)
+This road leads downtown to the southwest. To your south is the Christmas Party Building, and to your east is the Bunny Family's garden.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1329"></child>
+        </children>
+    </item>
+    <item nodeId="node-1329">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1330"></child>
+        </children>
+    </item>
+    <item nodeId="node-1330">
+        <command xml:space="preserve">do wheelie</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1331"></child>
+        </children>
+    </item>
+    <item nodeId="node-1331">
+        <command xml:space="preserve">get off</command>
+        <result xml:space="preserve">You dismount Maeve's Bicycle.
+
+Country Road
+This road leads downtown to the southwest. To your south is the Christmas Party Building, and to your east is the Bunny Family's garden.
+
+You can see Maeve's Bicycle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1332"></child>
+        </children>
+    </item>
+    <item nodeId="node-1332">
+        <command xml:space="preserve">sw</command>
+        <result xml:space="preserve">It's a bit too far to walk from here. Try riding a bike or driving.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1333"></child>
+        </children>
+    </item>
+    <item nodeId="node-1333">
+        <command xml:space="preserve">get on</command>
+        <result xml:space="preserve">You mount Maeve's Bicycle.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1334"></child>
+        </children>
+    </item>
+    <item nodeId="node-1334">
+        <command xml:space="preserve">sw</command>
+        <result xml:space="preserve">
+Banks of the Calico River (on Maeve's Bicycle)
+You are on the banks of the Calico River, which runs right through the middle of downtown. The Calico River is one of two rivers in Calico Town, the other being Long River.
+
+The river extends to the west from here. To your south is the Hospital and Doctor's Office, and to your east is the Twisty N. Books Airport (TNB).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1335"></child>
+        </children>
+    </item>
+    <item nodeId="node-1335">
+        <command xml:space="preserve">get off</command>
+        <result xml:space="preserve">You dismount Maeve's Bicycle.
+
+Banks of the Calico River
+You are on the banks of the Calico River, which runs right through the middle of downtown. The Calico River is one of two rivers in Calico Town, the other being Long River.
+
+The river extends to the west from here. To your south is the Hospital and Doctor's Office, and to your east is the Twisty N. Books Airport (TNB).
+
+You can see Maeve's Bicycle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1336"></child>
+        </children>
+    </item>
+    <item nodeId="node-1336">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">It's a bit too far to walk from here. Try riding a bike or driving.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1337"></child>
+        </children>
+    </item>
+    <item nodeId="node-1337">
+        <command xml:space="preserve">get on</command>
+        <result xml:space="preserve">You mount Maeve's Bicycle.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1338"></child>
+        </children>
+    </item>
+    <item nodeId="node-1338">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Country Road (on Maeve's Bicycle)
+This road leads downtown to the southwest. To your south is the Christmas Party Building, and to your east is the Bunny Family's garden.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1339"></child>
+        </children>
+    </item>
+    <item nodeId="node-1339">
+        <command xml:space="preserve">sw</command>
+        <result xml:space="preserve">
+Banks of the Calico River (on Maeve's Bicycle)
+You are on the banks of the Calico River, which runs right through the middle of downtown. The Calico River is one of two rivers in Calico Town, the other being Long River.
+
+The river extends to the west from here. To your south is the Hospital and Doctor's Office, and to your east is the Twisty N. Books Airport (TNB).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1340"></child>
+        </children>
+    </item>
+    <item nodeId="node-1340">
+        <command xml:space="preserve">get off</command>
+        <result xml:space="preserve">You dismount Maeve's Bicycle.
+
+Banks of the Calico River
+You are on the banks of the Calico River, which runs right through the middle of downtown. The Calico River is one of two rivers in Calico Town, the other being Long River.
+
+The river extends to the west from here. To your south is the Hospital and Doctor's Office, and to your east is the Twisty N. Books Airport (TNB).
+
+You can see Maeve's Bicycle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1341"></child>
+        </children>
+    </item>
+    <item nodeId="node-1341">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Twisty N. Books Airport
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1342"></child>
+        </children>
+    </item>
+    <item nodeId="node-1342">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1343"></child>
+        </children>
+    </item>
+    <item nodeId="node-1343">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1344"></child>
+        </children>
+    </item>
+    <item nodeId="node-1344">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Banks of the Calico River
+You are on the banks of the Calico River, which runs right through the middle of downtown. The Calico River is one of two rivers in Calico Town, the other being Long River.
+
+The river extends to the west from here. To your south is the Hospital and Doctor's Office, and to your east is the Twisty N. Books Airport (TNB).
+
+You can see Maeve's Bicycle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1345">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Bunnies' Dining Room
+The dining room table and chairs are wooden, and painted red. On the wall is a broom to help clean up the big messes that Liam Bunny makes. Along the wall is the kitchen.
+
+To your south is the bathroom, and there are stairs leading down to the living room.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1349"></child>
+            <child nodeId="node-1346"></child>
+        </children>
+    </item>
+    <item nodeId="node-1346">
+        <command xml:space="preserve">dow</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1347"></child>
+        </children>
+    </item>
+    <item nodeId="node-1347">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">
+Bunnies' Living Room
+The Bunnies' Living Room has a big couch, with two small couches on either side. There is a small coffee table with the TV as well as some toys and books.
+
+To your west is the front door and exit, and there are stairs leading up to the dining room and kitchen. To your north is the bedroom.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1348"></child>
+        </children>
+    </item>
+    <item nodeId="node-1348">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Bunnies' Garden.
+This part of the garden contains the stairs leading up to the entrance, and a tree with lots of birds and flowers. There is also a side gate that leads to the Bunnies' outdoor gear.
+
+To your north, the garden continues, and you can see some vegetables and a pond. to your south is the carousel and the playground.
+
+You can see Bunnies' Car (empty) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1349">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">
+Bunnies' Living Room
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1350"></child>
+        </children>
+    </item>
+    <item nodeId="node-1350">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Bunnies' Garden.
+placeholder. the playground extends to the south from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1351"></child>
+        </children>
+    </item>
+    <item nodeId="node-1351">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Playground
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1352">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Bunnies' Living Room
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1353"></child>
+        </children>
+    </item>
+    <item nodeId="node-1353">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Playground
+placeholder. the playground extends to the south from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1354"></child>
+        </children>
+    </item>
+    <item nodeId="node-1354">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Playground
+placeholder. the playground extends to nothing from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1355"></child>
+        </children>
+    </item>
+    <item nodeId="node-1355">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1356">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1357"></child>
+        </children>
+    </item>
+    <item nodeId="node-1357">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1358"></child>
+        </children>
+    </item>
+    <item nodeId="node-1358">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1359"></child>
+        </children>
+    </item>
+    <item nodeId="node-1359">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1360"></child>
+        </children>
+    </item>
+    <item nodeId="node-1360">
+        <command xml:space="preserve">talk</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1361"></child>
+        </children>
+    </item>
+    <item nodeId="node-1361">
+        <command xml:space="preserve">hi</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1362"></child>
+        </children>
+    </item>
+    <item nodeId="node-1362">
+        <command xml:space="preserve">no</command>
+        <result xml:space="preserve">That was a rhetorical question.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1363"></child>
+        </children>
+    </item>
+    <item nodeId="node-1363">
+        <command xml:space="preserve">what</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1364">
+        <command xml:space="preserve">look region</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1365"></child>
+        </children>
+    </item>
+    <item nodeId="node-1365">
+        <command xml:space="preserve">region</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1366"></child>
+        </children>
+    </item>
+    <item nodeId="node-1366">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Bunny House Bedroom
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1367">
+        <command xml:space="preserve">look liam</command>
+        <result xml:space="preserve">they don't look suspicious.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1368"></child>
+        </children>
+    </item>
+    <item nodeId="node-1368">
+        <command xml:space="preserve">look dave</command>
+        <result xml:space="preserve">they don't look suspicious.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1375"></child>
+            <child nodeId="node-1369"></child>
+        </children>
+    </item>
+    <item nodeId="node-1369">
+        <command xml:space="preserve">look sylvia</command>
+        <result xml:space="preserve">they don't look suspicious.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1374"></child>
+            <child nodeId="node-1370"></child>
+        </children>
+    </item>
+    <item nodeId="node-1370">
+        <command xml:space="preserve">look maeve</command>
+        <result xml:space="preserve">they don't look suspicious.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1371"></child>
+        </children>
+    </item>
+    <item nodeId="node-1371">
+        <command xml:space="preserve">look box</command>
+        <result xml:space="preserve">You see nothing special about Box.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1372"></child>
+        </children>
+    </item>
+    <item nodeId="node-1372">
+        <command xml:space="preserve">look marshmallow</command>
+        <result xml:space="preserve">they look suspicious.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1373"></child>
+        </children>
+    </item>
+    <item nodeId="node-1373">
+        <command xml:space="preserve">accuse marshmallow</command>
+        <result xml:space="preserve">Marshmallow says "oh, you caught me".
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1374">
+        <command xml:space="preserve">accuse sylvia</command>
+        <result xml:space="preserve">Sylvia says "oh, you caught me".
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1375">
+        <command xml:space="preserve">is dave the thief</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1376"></child>
+        </children>
+    </item>
+    <item nodeId="node-1376">
+        <command xml:space="preserve">accuse dave</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1377">
+        <command xml:space="preserve">look dave</command>
+        <result xml:space="preserve">You see nothing special about Dave.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1378"></child>
+        </children>
+    </item>
+    <item nodeId="node-1378">
+        <command xml:space="preserve">look liam</command>
+        <result xml:space="preserve">You see nothing special about Liam.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1379"></child>
+        </children>
+    </item>
+    <item nodeId="node-1379">
+        <command xml:space="preserve">look sylvia</command>
+        <result xml:space="preserve">You see nothing special about Sylvia.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1380"></child>
+        </children>
+    </item>
+    <item nodeId="node-1380">
+        <command xml:space="preserve">look maeve</command>
+        <result xml:space="preserve">You see nothing special about Maeve.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1381"></child>
+        </children>
+    </item>
+    <item nodeId="node-1381">
+        <command xml:space="preserve">look marshmallow</command>
+        <result xml:space="preserve">they look suspicious.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1382"></child>
+        </children>
+    </item>
+    <item nodeId="node-1382">
+        <command xml:space="preserve">accuse marshmallow</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1383"></child>
+        </children>
+    </item>
+    <item nodeId="node-1383">
+        <command xml:space="preserve">accusing marshmallow</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1384"></child>
+        </children>
+    </item>
+    <item nodeId="node-1384">
+        <command xml:space="preserve">accus marshmallow</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1385"></child>
+        </children>
+    </item>
+    <item nodeId="node-1385">
+        <command xml:space="preserve">marshmallow</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1386">
+        <command xml:space="preserve">look at wallpaper</command>
+        <result xml:space="preserve">The wallpaper is neatly decorated with flowers.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1387">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1393"></child>
+            <child nodeId="node-1388"></child>
+        </children>
+    </item>
+    <item nodeId="node-1388">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1389"></child>
+        </children>
+    </item>
+    <item nodeId="node-1389">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Bunnies' Living Room
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1390"></child>
+        </children>
+    </item>
+    <item nodeId="node-1390">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Garden1
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1391"></child>
+        </children>
+    </item>
+    <item nodeId="node-1391">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Garden1
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1392"></child>
+        </children>
+    </item>
+    <item nodeId="node-1392">
+        <command xml:space="preserve">x bunny farm</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1393">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Bunny House Dining Room
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1394"></child>
+        </children>
+    </item>
+    <item nodeId="node-1394">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1395"></child>
+        </children>
+    </item>
+    <item nodeId="node-1395">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Bunny House Bathroom
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1396">
+        <command xml:space="preserve">accuse box</command>
+        <result xml:space="preserve">That's your best guess? the Box?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1398"></child>
+            <child nodeId="node-1397"></child>
+        </children>
+    </item>
+    <item nodeId="node-1397">
+        <command xml:space="preserve">look dave</command>
+        <result xml:space="preserve">You see nothing special about Dave.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1398">
+        <command xml:space="preserve">accuse the Box</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>
