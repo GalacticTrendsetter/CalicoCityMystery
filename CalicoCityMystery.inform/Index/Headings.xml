@@ -3,7 +3,7 @@
 <plist version="1.0"><dict>
     <key>Application Version</key><string>6M62</string>
     <key>0</key><dict>
-        <key>Filename</key><string>/Users/liam/Documents/Calico City Mystery.inform/Source/story.ni</string>
+        <key>Filename</key><string>/Users/liam/dev/CalicoCityMystery/CalicoCityMystery.inform/Source/story.ni</string>
         <key>Line</key><integer>1</integer>
         <key>Title</key><string>"Calico City Mystery" by TurtleCorn Productions</string>
         <key>Level</key><integer>0</integer>
@@ -919,13 +919,6 @@
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>131</key><dict>
-        <key>Filename</key><string>/Users/liam/Library/Inform/Extensions/gavin lambert/secret doors.i7x</string>
-        <key>Line</key><integer>1</integer>
-        <key>Title</key><string>Version 1 of Secret Doors by Gavin Lambert begins here</string>
-        <key>Level</key><integer>0</integer>
-        <key>Indentation</key><integer>0</integer>
-    </dict>
-    <key>132</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/graham nelson/rideable vehicles.i7x</string>
         <key>Line</key><integer>1</integer>
         <key>Title</key><string>Version 3 of Rideable Vehicles by Graham Nelson begins here</string>

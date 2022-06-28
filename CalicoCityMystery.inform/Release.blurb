@@ -1,18 +1,18 @@
 ! Blurb file created by Inform build 6M62
 
-status "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/CblorbModel.html" "/Users/liam/Documents/Calico City Mystery.inform/Build/StatusCblorb.html"
+status "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/CblorbModel.html" "/Users/liam/dev/CalicoCityMystery/CalicoCityMystery.inform/Build/StatusCblorb.html"
 
 
 ! Identification
 
-project folder "/Users/liam/Documents/Calico City Mystery.inform"
-release to "/Users/liam/Documents/Calico City Mystery.materials/Release"
+project folder "/Users/liam/dev/CalicoCityMystery/CalicoCityMystery.inform"
+release to "/Users/liam/dev/CalicoCityMystery/CalicoCityMystery.materials/Release"
 
 ! Blorb instructions
 
 storyfile leafname "Calico City Mystery.gblorb"
-storyfile "/Users/liam/Documents/Calico City Mystery.inform/Build/output.ulx" include
-ifiction "/Users/liam/Documents/Calico City Mystery.inform/Metadata.iFiction" include
+storyfile "/Users/liam/dev/CalicoCityMystery/CalicoCityMystery.inform/Build/output.ulx" include
+ifiction "/Users/liam/dev/CalicoCityMystery/CalicoCityMystery.inform/Metadata.iFiction" include
 cover "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Cover.jpg"
 picture 1 "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Cover.jpg"
 
