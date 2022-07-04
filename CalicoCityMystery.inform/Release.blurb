@@ -10,7 +10,7 @@ release to "/Users/liam/dev/CalicoCityMystery/CalicoCityMystery.materials/Releas
 
 ! Blorb instructions
 
-storyfile leafname "Calico City Mystery.gblorb"
+storyfile leafname "Calico City.gblorb"
 storyfile "/Users/liam/dev/CalicoCityMystery/CalicoCityMystery.inform/Build/output.ulx" include
 ifiction "/Users/liam/dev/CalicoCityMystery/CalicoCityMystery.inform/Metadata.iFiction" include
 cover "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Cover.jpg"
@@ -21,7 +21,7 @@ picture 1 "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Cover
 placeholder [IFID] = "78DCD1C6-B7AB-4ADE-BE15-A5EF779668AE"
 placeholder [RELEASE] = "1"
 placeholder [YEAR] = "2022"
-placeholder [TITLE] = "Calico City Mystery"
+placeholder [TITLE] = "Calico City"
 placeholder [AUTHOR] = "TurtleCorn Productions"
 placeholder [BLURB] = "A work of interactive fiction."
 

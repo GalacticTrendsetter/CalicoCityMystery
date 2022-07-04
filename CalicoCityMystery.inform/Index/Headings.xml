@@ -5,7 +5,7 @@
     <key>0</key><dict>
         <key>Filename</key><string>/Users/liam/dev/CalicoCityMystery/CalicoCityMystery.inform/Source/story.ni</string>
         <key>Line</key><integer>1</integer>
-        <key>Title</key><string>"Calico City Mystery" by TurtleCorn Productions</string>
+        <key>Title</key><string>"Calico City" by TurtleCorn Productions</string>
         <key>Level</key><integer>0</integer>
         <key>Indentation</key><integer>0</integer>
     </dict>
@@ -924,5 +924,47 @@
         <key>Title</key><string>Version 3 of Rideable Vehicles by Graham Nelson begins here</string>
         <key>Level</key><integer>0</integer>
         <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>132</key><dict>
+        <key>Filename</key><string>/Users/liam/Library/Inform/Extensions/eric eve/variable time control.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>Version 4 of Variable Time Control by Eric Eve begins here</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>133</key><dict>
+        <key>Filename</key><string>/Users/liam/Library/Inform/Extensions/eric eve/variable time control.i7x</string>
+        <key>Line</key><integer>4</integer>
+        <key>Title</key><string>Part 1 - Time Control Mechanism</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>134</key><dict>
+        <key>Filename</key><string>/Users/liam/Library/Inform/Extensions/eric eve/variable time control.i7x</string>
+        <key>Line</key><integer>6</integer>
+        <key>Title</key><string>Chapter - Time Control Variables</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>135</key><dict>
+        <key>Filename</key><string>/Users/liam/Library/Inform/Extensions/eric eve/variable time control.i7x</string>
+        <key>Line</key><integer>17</integer>
+        <key>Title</key><string>Chapter 2 - The Variable Advance Time Rule</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>136</key><dict>
+        <key>Filename</key><string>/Users/liam/Library/Inform/Extensions/eric eve/variable time control.i7x</string>
+        <key>Line</key><integer>37</integer>
+        <key>Title</key><string>Chapter 3 - Time Control Phrases</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>137</key><dict>
+        <key>Filename</key><string>/Users/liam/Library/Inform/Extensions/eric eve/variable time control.i7x</string>
+        <key>Line</key><integer>65</integer>
+        <key>Title</key><string>Chapter 4 - Displaying Time with Seconds</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
     </dict>
 </dict></plist>
