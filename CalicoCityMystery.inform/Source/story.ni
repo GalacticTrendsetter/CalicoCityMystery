@@ -6,7 +6,7 @@ When play begins:
 	now the time of day is 8:00 am.
 
 The Bunnies' Bedroom is a room. "The Bunnies['] Bedroom has a bunkbed against one wall for you and Liam Bunny, and a bed for each parent. Next to the bunkbed is a desk, and in front of the beds is a wardrobe. [line break][line break]To your south is the living room."
-	
+
 The story headline is "A peek into Calico Life"
 
 A person has a time called SleepLate. The SleepLate of a person is usually 3:00 am.
@@ -18,13 +18,12 @@ A person has a number called TimeSpent.
 A room has a text called AreaDef.
 
 A person is either awake or asleep. A person is usually awake.
-
 [Hanging around until is an action applying to one time.
 
 Check hanging around until: 
 	if the time of day is the time understood, say "It is [time understood] now!" instead; 
 	if the time of day is after the time understood, say "It is too late for that now." instead.
-	
+
 Carry out hanging around until: 
 	while the time of day is before the time understood: 
 		increase the time of day by one minute
