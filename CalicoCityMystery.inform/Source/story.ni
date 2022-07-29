@@ -32,10 +32,6 @@ Report hanging around until:
 	say "You stand around until [time understood]."
 Understand "wait until [time]" as hanging around until.]
 
-Include Rideable Vehicles by Graham Nelson.
-
-Include Variable Time Control by Eric Eve.
-
 A bed is a kind of thing. A bed is either usable or unusable. A bed is usually usable.
 
 Instead of sleeping:
@@ -235,6 +231,8 @@ Bunnies' Car is an enterable vehicle in Garden1. Understand "Car" or "Bunny Car"
 
 Instead of entering Bunnies' Car:
 	say "You're not old enough to drive!"
+	
+Include Rideable Vehicles by Graham Nelson.
 
 Maeve's Bicycle is a rideable vehicle in Garden2. Understand "Maeve's Bike" or "Bike" or "Bicycle" as Maeve's Bicycle. 
 
